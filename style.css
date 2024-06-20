@@ -1,4 +1,26 @@
-html {
-  height: 100%;
-  width: 100%;
+
+.dalelite {
+  background-color: #FFFFFF;
+  padding: 20px;
+}
+
+.item {
+  font-style: italic;
+
+  em strong {
+    color: "#purple";
+  }
+
+    .missao {
+      background-color: #grey;
+      padding: 20px;
+    }
+
+
+.texto-centralizado {
+  text-align: center;
+}
+
+.imagem-dalelite {
+  width: 50%;
 }
